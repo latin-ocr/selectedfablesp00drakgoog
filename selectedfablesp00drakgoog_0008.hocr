@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectedfablesp00drakgoog_0008.png"; bbox 0 0 2784 4109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 589 1759 935 1815">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 589 1759 935 1815">
+     <span class='ocr_line' id='line_1_1' title="bbox 589 1759 935 1815; baseline -0.012 -11"><span class='ocrx_word' id='word_1_1' title='bbox 589 1763 621 1804; x_wconf 75' lang='lat' dir='ltr'><strong>nv</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 640 1761 753 1815; x_wconf 85' lang='lat' dir='ltr'>JOSEPH</span> <span class='ocrx_word' id='word_1_3' title='bbox 773 1760 804 1801; x_wconf 86' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 822 1759 935 1801; x_wconf 83' lang='lat' dir='ltr'>DRAKE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 613 1864 777 1956">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 613 1864 777 1956">
+     <span class='ocr_line' id='line_1_2' title="bbox 613 1864 777 1956; baseline -0.03 1"><span class='ocrx_word' id='word_1_5' title='bbox 613 1864 777 1956; x_wconf 66' lang='grc'><em>73567</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 509 3320 1027 3441">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 509 3320 1027 3438">
+     <span class='ocr_line' id='line_1_3' title="bbox 509 3320 1027 3387; baseline -0.025 -12"><span class='ocrx_word' id='word_1_6' title='bbox 509 3333 528 3387; x_wconf 91' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 538 3332 563 3375; x_wconf 90' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 573 3329 681 3384; x_wconf 77' lang='lat' dir='ltr'>Cushlng</span> <span class='ocrx_word' id='word_1_9' title='bbox 690 3330 712 3371; x_wconf 73' lang='grc' dir='ltr'><strong>δι</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 721 3328 761 3371; x_wconf 86' lang='lat' dir='ltr'><strong>Co.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 767 3322 904 3367; x_wconf 73' lang='lat' dir='ltr'>-Berwick</span> <span class='ocrx_word' id='word_1_12' title='bbox 912 3322 934 3365; x_wconf 72' lang='grc' dir='ltr'><strong>δι</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 943 3320 1027 3364; x_wconf 78' lang='lat' dir='ltr'>Smlth</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 632 3390 907 3441; baseline -0.026 -3"><span class='ocrx_word' id='word_1_14' title='bbox 632 3398 724 3441; x_wconf 83' lang='lat' dir='ltr'><strong>Bost0n‚</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 735 3394 814 3438; x_wconf 83' lang='lat' dir='ltr'>Mass..</span> <span class='ocrx_word' id='word_1_16' title='bbox 824 3392 852 3432; x_wconf 89' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_17' title='bbox 854 3390 907 3432; x_wconf 89' lang='lat' dir='ltr'><strong>SA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1396 4109">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1396 4109">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1396 4109; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1396 4109; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
